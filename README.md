@@ -1,6 +1,7 @@
 # Net Zero Water System for Mehran University of Engineering and Technology
 
 Ahmed Rafique (arafique89@gmail.com), Khawar Riaz (khawarriaz.nust@gmail.com), Rubayat Jamal (rubayat.jamal@utah.edu) Muhammad Imran (u10555272@utah.edu)
+
 CVEEN 6460 - Sustainable Urban Water Engineering 
 University of Utah - Spring 2017
 
