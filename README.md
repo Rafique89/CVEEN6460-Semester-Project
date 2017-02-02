@@ -17,7 +17,6 @@ Welcome to the GitHub repository for CVEEN 6460 Sustainable Urban Wate Engineeri
 * Conceptual Design (
 * Interim Design (
 * Final Design (
--------------------
 
 ## Project Introduction
 
