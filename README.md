@@ -16,7 +16,7 @@ Welcome to the GitHub repository for CVEEN 6460 Sustainable Urban Wate Engineeri
 **Stakeholder:** USPCASW – U.S.-Pakistan Center for Advanced Studies in Water
 
 ## Repository Content
-* Project Definition (
+* Project Definition (https://github.com/imranch/CVEEN6460-Semester-Project/tree/master/Conceptual%20Design)
 * Conceptual Design (
 * Interim Design (
 * Final Design (
