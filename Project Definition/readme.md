@@ -4,7 +4,7 @@
 	
 	Folder | Description
 	--- | ---
-	Data | Precipitation data collected from Pakistan Metereological Department and location map of study area
+	Data | Precipitation data collected from Pakistan Meteorological Department for Hyderabad (1981-2010) and Location map of study 		area.
 	Model | Python
 	Report | Scoping document
 	Timeline | Flow chart and work distribution of project
