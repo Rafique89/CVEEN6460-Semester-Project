@@ -4,5 +4,6 @@
 	
 	Folder | Description
 	--- | ---
-	Annual Precipitation | Precipitation data collected from Pakistan Metereological Department
-	Project Location | Location map of study area
+	Data | Precipitation data collected from Pakistan Metereological Department and location map of study area
+	Timeline | Flow chart and work distribution of project
+	Model | Python 
