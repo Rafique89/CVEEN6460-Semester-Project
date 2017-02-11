@@ -8,5 +8,4 @@
 	Financial Aspect | Python
 	LEED Criteria | Scoping document
 	Services Layout | Flow chart and work distribution of project
-	Water Reuse Calculation | 
-	Water Demand Calculation | Excel worksheet showing all the water demand calculation
+	Water Reuse Calculation | This folder contains calculations for Waste Water treatment and Rainwater Harvesting. 
