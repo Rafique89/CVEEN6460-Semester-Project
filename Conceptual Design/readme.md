@@ -4,9 +4,7 @@
 	
 	Folder | Description
 	--- | ---
-	Financial Aspect | 
-	LEED Criteria | Scoping document.
-	Report | Report for 30% concept design.
-	Services Layout | Flow chart and work distribution of project.
-	Water Demand Calculation | This folder contains Excel worksheet showing total water consumption at the facility.
-	Water Reuse Calculation | Calculations for waste water treatment and rainwater harvesting.
+	Cost Estimate | Coneptual design stage Bill of Quatities
+	Report | Report for 30% concept design
+	Services Layout | Sewer and water network layout drawings
+	Water Budget Calculation | Water budget calculation guidance document and summary
