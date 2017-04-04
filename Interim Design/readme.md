@@ -1,6 +1,6 @@
 # Supporting Documents:	
 	
-	**This folder contains the following:**
+	**This folder contains the following:
 	
 	Folder | Description
 	--- | ---
